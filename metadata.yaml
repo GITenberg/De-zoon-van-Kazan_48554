@@ -1,4 +1,8 @@
 _repo: De-zoon-van-Kazan_48554
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48554-h/images/cover.jpg
 creator:
   author:
     agent_name: Curwood, James Oliver
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1487
     wikipedia: http://en.wikipedia.org/wiki/James_Oliver_Curwood
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48554#De-zoon-van-Kazan
 gutenberg_issued: '2015-03-22'
 gutenberg_type: Text
 identifiers:
